@@ -2,7 +2,7 @@
 
 **Java Full Stack Developer** with 7+ years of experience building scalable microservices, event-driven systems, and cloud-native applications across Banking and Financial Services domains.
 
-📍 Charlotte, NC &nbsp;|&nbsp; 📧 rakeshchowdary1997.m@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-maddineni/)
+📍 Southplainfield, NJ &nbsp;|&nbsp; 📧 rakeshchowdary1997.m@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-maddineni/)
 
 ---
 
