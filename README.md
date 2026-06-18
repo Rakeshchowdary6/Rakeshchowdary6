@@ -66,7 +66,7 @@
 
 ## 📈 GitHub Stats
 
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakeshchowdary6&show_icons=true&theme=default&hide_border=true)
 
 ---
 
