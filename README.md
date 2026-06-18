@@ -49,7 +49,7 @@
 
 | Repo | What it demonstrates | Stack |
 |------|----------------------|-------|
-| [event-driven-microservices](../event-driven-microservices) | Kafka producers/consumers, DLQ, idempotency | Java, Spring Boot, Kafka, Docker |
+| [event-driven-microservices](https://github.com/Rakeshchowdary6/event-driven-microservices) | Kafka producers/consumers, DLQ, idempotency | Java, Spring Boot, Kafka, Docker |
 | [angular-springboot-dashboard](../angular-springboot-dashboard) | Angular 17 SPA + Spring Boot REST, JWT, RBAC | Angular, Spring Security, OAuth2 |
 | [secure-api-gateway](../secure-api-gateway) | API Gateway with Keycloak, rate limiting | Spring Cloud Gateway, Keycloak |
 | [aws-eks-deployment-pipeline](../aws-eks-deployment-pipeline) | Full IaC + CI/CD to AWS EKS | Terraform, GitHub Actions, EKS |
